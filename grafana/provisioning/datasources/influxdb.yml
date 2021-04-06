@@ -20,13 +20,13 @@ datasources:
   # <string> url
   url: http://influxdb:8086
   # <string> database password, if used
-  password: "admin"
+  password: "rufuwer!27"
   # <string> database user, if used
   user: "admin"
   # <string> database name, if used
   database: "influx"
   # <bool> enable/disable basic auth
-  basicAuth: false
+  basicAuth: true
 #  withCredentials:
   # <bool> mark as default datasource. Max one per org
   isDefault: true

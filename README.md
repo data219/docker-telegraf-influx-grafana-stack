@@ -1,6 +1,13 @@
-# Example Docker Compose project for Telegraf, InfluxDB and Grafana
+# Telegraf, InfluxDB and Grafana
 
-This an example project to show the TIG (Telegraf, InfluxDB and Grafana) stack.
+TIG (Telegraf, InfluxDB and Grafana) stack.
+
+## Add your own config
+
+```bash
+$ mv env.dist .env
+$ nano .env # change usernames, passwords, etc
+```
 
 ## Start the stack with docker compose
 
