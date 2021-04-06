@@ -20,7 +20,7 @@ datasources:
   # <string> url
   url: http://influxdb:8086
   # <string> database password, if used
-  password: "rufuwer!27"
+  password: "admin"
   # <string> database user, if used
   user: "admin"
   # <string> database name, if used
